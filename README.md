@@ -11,6 +11,6 @@ The main goal is to see how the solving algorithm and backtracking are affected 
 
 ## References
 
-To view React documentation, click [Java documentation (Paint)](https://docs.oracle.com/javase/tutorial/uiswing/painting/closer.html).
+[Java documentation (Paint)](https://docs.oracle.com/javase/tutorial/uiswing/painting/closer.html).
 
 
